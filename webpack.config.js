@@ -1,8 +1,8 @@
 
 let config = {
     entry: {
-        index: ['./javascript/index.js'],
-        trial: ['./javascript/trial.js']
+        index: ['./styles/index.scss'],
+        trial: ['./styles/trial.scss']
     },
     output: {
         path: __dirname + '/build/',
